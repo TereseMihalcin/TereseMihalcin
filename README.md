@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TereseMihalcin
-- 👀 I’ve interested in Web Development and open source code!
-- 🌱 I’m currently working on a website for a coffee popup, and other sites for my friends and family
+- 👀 I’ve interested in Web Development!
+- 🌱 I’m currently working on a website for me and my partner's upcoming wedding
 - 📫 How to reach me: Email: teresemihalcin18@gmail.com
 
 <!---
