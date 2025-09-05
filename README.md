@@ -2,8 +2,6 @@
 ### it's kinda like "terez"
 My passion for web development has been growing!
 
-Recently I've been loving Astro for website building, it's ridiculously fun to use.
-
 A few of my personal projects:
 - My [personal portfolio](https://teresemihalcin.com), it's React, made after college, begging for an upgrade
 - My dad requested a [website for his record label](https://lunker-recordings.com), launched but a WIP
