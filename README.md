@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TereseMihalcin
-- 👀 I’ve interested in Web Development!
+- 👀 I’m interested in Web Development!
 - 🌱 I’m currently working on a website for me and my partner's upcoming wedding
 - 📫 How to reach me: Email: teresemihalcin18@gmail.com
 
